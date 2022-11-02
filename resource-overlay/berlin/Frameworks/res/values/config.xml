@@ -296,4 +296,9 @@
     <integer name="config_defaultRefreshRate">0</integer>
     <integer name="config_defaultRefreshRateInZone">90</integer>
 
+    <!-- Whether the device enable the standalone (SA) mode of 5G NR.-->
+    <bool name="config_telephony5gStandalone">true</bool>
+
+    <!-- Whether the device enable the non-standalone (NSA) mode of 5G NR.-->
+    <bool name="config_telephony5gNonStandalone">true</bool>
 </resources>
