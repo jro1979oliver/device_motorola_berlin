@@ -37,6 +37,7 @@ PRODUCT_PACKAGES += \
     LineageSystemUIBerlin \
     SettingsProviderResBerlin \
     SystemUIResBerlin \
+    NfcResBerlin \
     WifiResBerlin
 
 # Audio
