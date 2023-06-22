@@ -370,8 +370,8 @@
     <ctl name="EAR PA GAIN" value="G_6_DB" />
 
     <ctl name="TX_DEC0 Volume" value="84" />
-    <ctl name="TX_DEC1 Volume" value="84" />
-    <ctl name="TX_DEC2 Volume" value="84" />
+    <ctl name="TX_DEC1 Volume" value="100" />
+    <ctl name="TX_DEC2 Volume" value="100" />
     <ctl name="TX_DEC3 Volume" value="84" />
     <ctl name="TX_DEC4 Volume" value="84" />
     <ctl name="TX_DEC5 Volume" value="84" />
@@ -1703,7 +1703,7 @@
     <path name="camcorder-mic-bf">
         <ctl name="TX_CDC_DMA_TX_3 Channels" value="Two" />
         <!-- the top mic as left channel -->
-        <ctl name="ADC1 Volume" value="8" />
+        <ctl name="ADC1 Volume" value="12" />
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
         <ctl name="TX DEC0 MUX" value="SWR_MIC" />
         <ctl name="TX SMIC MUX0" value="SWR_MIC0" />
@@ -1730,7 +1730,7 @@
         <ctl name="ADC2_MIXER Switch" value="1"/>
         <ctl name="ADC2 MUX" value="INP3"/>
         <!-- the top mic as right channel -->
-        <ctl name="ADC1 Volume" value="8" />
+        <ctl name="ADC1 Volume" value="12" />
         <ctl name="TX_AIF1_CAP Mixer DEC1" value="1" />
         <ctl name="TX DEC1 MUX" value="SWR_MIC" />
         <ctl name="TX SMIC MUX1" value="SWR_MIC0" />
@@ -1741,7 +1741,7 @@
     <path name="camcorder-mic-audio-zoom">
         <ctl name="TX_CDC_DMA_TX_3 Channels" value="Three" />
         <!-- the top mic as left channel -->
-        <ctl name="ADC1 Volume" value="6" />
+        <ctl name="ADC1 Volume" value="12" />
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
         <ctl name="TX DEC0 MUX" value="SWR_MIC" />
         <ctl name="TX SMIC MUX0" value="SWR_MIC0" />
