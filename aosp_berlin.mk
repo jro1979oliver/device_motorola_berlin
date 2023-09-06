@@ -38,6 +38,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_PRODUCT=berlin_retail \
-    PRIVATE_BUILD_DESC="berlin_global-user 12 S1RGS32.53-18-22-37 ca141 release-keys"
+    PRIVATE_BUILD_DESC="berlin_global-user 13 T1RG33M.135-109-9 e16fc release-keys"
 
-BUILD_FINGERPRINT := motorola/berlin_global/berlin:12/S1RGS32.53-18-22-37/ca141:user/release-keys
+BUILD_FINGERPRINT := motorola/berlin_global/berlin:13/T1RG33M.135-109-9/e16fc:user/release-keys
