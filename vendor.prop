@@ -1,3 +1,13 @@
+# Audio
+persist.vendor.audio_fx.current=waves
+persist.vendor.audio_fx.waves.maxxsense=true
+persist.vendor.audio_fx.waves.processing=true
+persist.vendor.audio_fx.waves.proc_twks=true
+persist.vendor.audio_fx.waves.systrace=true
+persist.vendor.audio_fx.waves.processing_nx=true
+ro.vendor.audio.mla.unsupported=true
+ro.vendor.audio.crystal_talk_record.supported=true
+
 # Blurs
 persist.sys.sf.disable_blurs=1
 ro.sf.blurs_are_expensive=1
