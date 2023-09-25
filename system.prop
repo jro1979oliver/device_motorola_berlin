@@ -1,3 +1,7 @@
 # Google
 ro.opa.device_model_id=motorola-berlin
 ro.opa.eligible_device=true
+
+# Radio
+ro.telephony.default_network=27,27
+ril.subscription.types=RUIM

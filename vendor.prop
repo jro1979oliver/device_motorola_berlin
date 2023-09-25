@@ -14,3 +14,9 @@ ro.mot.build.customerid=global
 
 # NFC
 ro.vendor.hw.nfc=st
+
+# Radio
+ro.vendor.radio.imei.sv=38
+persist.vendor.radio.force_gba_over_isim_app=1
+persist.vendor.sys.reduce_qdss_log=1
+
