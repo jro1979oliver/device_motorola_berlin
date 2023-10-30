@@ -30,6 +30,9 @@ vendor/lib/libc++_shared.so
 vendor/lib64/libacdbloader.so
 
 # Audio - soundfx
+system/lib/libwavesaudio_effectwrapper.so
+system/lib64/libwavesaudio_effectwrapper.so
+vendor/lib/libMAM2_3-AlgFX-Coretex_A9.so
 vendor/lib/soundfx/libmaxxeffect-cembedded.so
 
 # Camera
